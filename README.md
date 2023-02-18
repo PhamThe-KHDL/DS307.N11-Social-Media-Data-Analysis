@@ -5,7 +5,7 @@ DS307.N11 - Phân Tích Dữ Liệu Truyền Thông Xã Hội
 
 Học kỳ 1 Năm 4 Năm học 2022-2023 
 
-## Job Recommendation System
+## Final Project - Job Recommendation System
 
 **Giảng Viên:** 
 - ThS Nguyễn Văn Kiệt
