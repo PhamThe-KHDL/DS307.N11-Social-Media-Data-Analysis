@@ -21,7 +21,7 @@ Học kỳ 1 Năm 4 Năm học 2022-2023
 ### Bộ dữ liệu
 
 - Sử dụng ngôn ngữ lập trình Python kết hợp với hai framework được hỗ trợ mạnh mẽ cho việc cào dữ liệu là Selenium và BeautifulSoup để thu thập thông tin về công việc và ứng viên. Bộ dữ liệu được thu thập gồm hai bộ là: bộ dữ liệu công việc (jobs) và bộ dữ liệu ứng viên (users). Bộ dữ liệu công việc được chúng tôi thu tập trên hai trang web [topcv.vn](https://www.topcv.vn/viec-lam) và [timviec365.vn](https://timviec365.vn/) gồm 14,634 công việc với 18 thuộc tính. Bộ dữ ứng viên được chúng tôi thu tập trên trang web [timviec365.vn](https://timviec365.vn/) gồm 14,868 ứng viên với 17 thuộc tính.
-- Bộ dữ liệu được chúng tôi công bố tại [Job Dataset for Recommendation](https://www.kaggle.com/datasets/phamtheds/job-dataset-for-recommendation)
+- Bộ dữ liệu được chúng tôi công bố tại [Kaggle - Job Dataset for Recommendation](https://www.kaggle.com/datasets/phamtheds/job-dataset-for-recommendation)
 
 
 ### Nội dung đồ án
@@ -32,7 +32,7 @@ Học kỳ 1 Năm 4 Năm học 2022-2023
 
 - Kết quả tốt nhất mà chúng tôi đạt được là ở phương pháp BERT với độ chính xác Accuracy là 90% với thuộc tính Industry-Industry.
 
-
+- Demo [Youtube](https://youtu.be/2-EWC5dIgO4)
 
 
 
